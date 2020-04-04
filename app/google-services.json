@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835863496580",
+    "firebase_url": "https://temperature-sensor-12723.firebaseio.com",
+    "project_id": "temperature-sensor-12723",
+    "storage_bucket": "temperature-sensor-12723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835863496580:android:611efd2b5e0a1b11",
+        "android_client_info": {
+          "package_name": "com.example.aziz.temperaturesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835863496580-4a9fikj39sb8ame2b6ebg79d2ueipl6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aziz.temperaturesensor",
+            "certificate_hash": "2c778879f56ccf52381975cc0564f9f23eff72bc"
+          }
+        },
+        {
+          "client_id": "835863496580-i0i45d9prv0bjupep35jgvjpk9r8ljgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtQdbd7GE4WIse0Ej-vvt7sJmfZKhkRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835863496580-i0i45d9prv0bjupep35jgvjpk9r8ljgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
